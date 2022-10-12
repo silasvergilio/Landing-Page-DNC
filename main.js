@@ -4,4 +4,9 @@ function addRedBorder(id) {
 
 }
 
-addRedBorder("sexta");
+function highlightCard(cardId) {
+    console.log("mouseover");
+    var element = document.getElementById(cardId);
+    element.classList.toggle("card-highlight");
+
+}
