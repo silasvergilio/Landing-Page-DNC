@@ -103,6 +103,19 @@ button{
     font-size: 30px;
 }
 
+input{
+    
+        background: #514988;
+        border-radius: 10px;
+        color: #FFFFFF;
+        border: 0pt;
+        margin: 30px;
+        width:300px;
+        height:70px;
+        font-size: 30px;
+    
+}
+
 button:hover{
     background: #514988;
     cursor:pointer;
